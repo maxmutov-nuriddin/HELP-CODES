@@ -1,3 +1,4 @@
+//простое число это 2,3,5,7,11,13,17...
 let number = 17;
 
 function isPrimeNumber(num) {
@@ -14,4 +15,4 @@ function isPrimeNumber(num) {
 
 console.log(isPrimeNumber(number)); //? true
 
-//простое число это 2,3,5,7,11,13,17...
+//возврошает true false проверя простое число 
